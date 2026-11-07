@@ -5,16 +5,25 @@ I'm a **student**, **developer**, and **designer** with a huge passion for **cyb
 
 ⠀
 ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ 
-
-## 💅🏻Quick Facts  ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀   ⠀⠀ `· . 𐙚
+## 💅🏻Quick Facts 
 - 🎓 Student & Lifelong Learner
-- 👩‍💻 Developer | Cybersecurity Enthusiast
+- I love Jude Bellingham
+- 👩‍💻 Developer | Cybersecurity Enthusiast | Indian Army Ethical Hacker Intern
 - 🎨 Designer
-- 🎮 Gamer at heart
+- 🎮 Gamer
 - ⚡ Quick learner, always curious about new tech!
-
+  
 ---
+## Favourite Games
+- Resident Evil Requiem
+- Resident Evil 7
+- Resident Evil 4
+- Resident Evil 8 Village
+- I mean I love Capcom 😭
+- Call of Duty Modern Warfare 4 (Mission NK is my fav yoo)
+- COD MW3
+- COD MW2
+- More...................
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
