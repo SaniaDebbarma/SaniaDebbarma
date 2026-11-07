@@ -4,10 +4,10 @@ Welcome to my GitHub profile!
 I'm a **student**, **developer**, and **designer** with a huge passion for **cybersecurity**. Whether I'm building something new, designing sleek interfaces, or exploring the latest in security, I'm always eager to learn and grow.
 
 ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . 𐙚
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ 
 
-## 💅🏻Quick Facts 
+## 💅🏻Quick Facts  ⠀⠀ ⠀⠀:¨ ·.· ¨:
+⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀   ⠀⠀ `· . 𐙚
 - 🎓 Student & Lifelong Learner
 - 👩‍💻 Developer | Cybersecurity Enthusiast
 - 🎨 Designer
