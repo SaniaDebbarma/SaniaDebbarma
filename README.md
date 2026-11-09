@@ -78,9 +78,7 @@ I'm a **student**, **developer**, and **designer** with a huge passion for **cyb
 
 ---
 ---
-
-## 🐍 Contribution Snake
-
+##🐍Contri
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaniaDebbarma/SaniaDebbarma/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaniaDebbarma/SaniaDebbarma/output/github-contribution-grid-snake.svg" />
