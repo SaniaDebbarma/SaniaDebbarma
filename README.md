@@ -75,3 +75,15 @@ I'm a **student**, **developer**, and **designer** with a huge passion for **cyb
 
 [![](https://visitcount.itsvg.in/api?id=SaniaDebbarma&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaniaDebbarma/SaniaDebbarma/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaniaDebbarma/SaniaDebbarma/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SaniaDebbarma/SaniaDebbarma/output/github-contribution-grid-snake.svg" />
+</picture>
+
