@@ -1,6 +1,7 @@
 # Hi, I'm Sania Debbarma! 👋
-<img src="./banner.gif" width="300" alt="Animated profile banner">
-
+<div align="center">
+  <img src="./banner.gif" width="300" alt="Animated profile banner">
+</div>
 Welcome to my GitHub profile!  
 I'm a **student**, **developer**,**designer** and an **Ethical Hacker**.
 here's a cup of tea ☕️ for those who came to check out my profile.
