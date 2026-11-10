@@ -1,4 +1,4 @@
-# Hi, I'm Sania Debbarma! 👋
+# Hi, I'm Sania Debbarma 
 <div align="center">
   <img src="./banner.gif" width="300" alt="Animated profile banner">
 </div>
