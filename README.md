@@ -1,13 +1,14 @@
 # Hi, I'm Sania Debbarma! 👋
 
 Welcome to my GitHub profile!  
-I'm a **student**, **developer**, and **designer** with a huge passion for **cybersecurity**. Whether I'm building something new, designing sleek interfaces, or exploring the latest in security, I'm always eager to learn and grow.
+I'm a **student**, **developer**,**designer** and an **Ethical Hacker**.
+here's a cup of tea ☕️ for those who came to check out my profile.
 
 ⠀
 ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ 
 ## 💅🏻Quick Facts 
 - 🎓 Student & Lifelong Learner
-- I love Jude Bellingham
+- I love Jude Bellingham ⚽️
 - 👩‍💻 Developer | Cybersecurity Enthusiast | Indian Army Ethical Hacker Intern
 - 🎨 Designer
 - 🎮 Gamer
