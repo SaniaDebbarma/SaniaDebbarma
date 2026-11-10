@@ -1,4 +1,5 @@
 # Hi, I'm Sania Debbarma! 👋
+<img src="./banner.gif" width="300" alt="Animated profile banner">
 
 Welcome to my GitHub profile!  
 I'm a **student**, **developer**,**designer** and an **Ethical Hacker**.
